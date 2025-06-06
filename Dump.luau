@@ -37,3 +37,5 @@ local function dump_script(environment: LocalScript | ModuleScript)
 
   return 0xff2
 end
+
+return dump_script
